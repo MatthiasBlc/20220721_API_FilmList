@@ -18,6 +18,7 @@ Project is created with:
 * For demonstrations purpose, you can use [this copy of the project](https://matthiasblc.github.io/20220721_API_FilmList_API_less/) witch is API less.
 * ...well not so much, in fact in this version you have to use your own APIkey.
 * Just ask for an API key on [this link](http://www.omdbapi.com/apikey.aspx) if you haven't one.
+* ... Yes that was the idea but there is a security fail cause of Mixed content. Nice try...
 
 ## Sources
 This app is created through the [The Hacking Project](https://www.thehackingproject.org) bootcamp and made by [MatthiasBlc](https://github.com/MatthiasBlc).
